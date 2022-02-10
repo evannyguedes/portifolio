@@ -29,6 +29,12 @@
   h2 {
     font-size: 48px !important;
   }
+
+  @media (max-width:700px){
+    h2{ font-size: 25px !important;
+
+    }
+  }
   
   h3 {
     font-size: 24px !important;
